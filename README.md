@@ -9,7 +9,7 @@ The base image was [downloaded](https://upload.wikimedia.org/wikipedia/commons/t
 
 The script to generate the first 11 images in this seed series is callable from windows command line using `run_series_script.exe`. See below for an example image.
 
-![SMPTE seed 0 image](https://github.com/metamaden/seed_series/blob/main/series/generative/smpte/img/seed0.jpg)
+![SMPTE seed 7 image](https://github.com/metamaden/seed_series/blob/main/series/generative/smpte/img/smpte_seed_7.jpg?raw=true)
 
 # Rococo flowers
 
