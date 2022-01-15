@@ -35,7 +35,7 @@ def new_smpte_image(seednum = 1, rnum_low = -10, rnum_hi = 10,
     """
     # timestamp = time.time() # 1642124557.5068347
     random.seed(seednum)
-    img_new_fname = "".join(["seed",str(seednum),".jpg"])
+    img_new_fname = "".join(["smpte_seed_",str(seednum),".jpg"])
     img_new_fpath = os.path.join(save_dirname, img_new_fname)
     # read base image pixels into np array
     img_base = Image.open(img_base_fpath)
