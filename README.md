@@ -13,7 +13,7 @@ The script to generate the first 11 images in this seed series is callable from 
 
 # Rococo flowers
 
-This series applies the Inception3 Deep Dream image filter algorithm to a fine art image. Code for this project comes from this tutorial, with light modifications. The base image for this series is "Flowers in a Rococo Vase" by Paul Cézanne, and was downloaded from the National Gallery of Art website [here](https://www.nga.gov/collection/art-object-page.46580.html).
+This series applies the [Inception V3](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) Deep Dream image filter algorithm to a fine art image. Code for this project comes from this tutorial, with light modifications. The base image for this series is "Flowers in a Rococo Vase" by Paul Cézanne, and was downloaded from the National Gallery of Art website [here](https://www.nga.gov/collection/art-object-page.46580.html).
 
 Images in this series were captured over the course of a single continuous run of model training, where training progress is denoted by the "steps" in file names. Before training, the seed of 1 was set to ensure run reproducibility. An example of the image at step 50 is shown:
 
