@@ -3,7 +3,7 @@ This is a project in generative image production. It will explore the impact of 
 
 # SMPTE seed series
 
-This series explores random pixel offsets applied to a base image of the SMPTE television test pattern. 
+This series explores random pixel offsets applied to a base image of the SMPTE television test pattern. These images are available as NFTs in the [SMPTE seed series](https://opensea.io/collection/smpte-seed) gallery on OpenSea.
 
 The base image was [downloaded](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SMPTE_Color_Bars_16x9.svg/1024px-SMPTE_Color_Bars_16x9.svg.png) then modified with the python script [`make_new_smpte_seed.py`](https://github.com/metamaden/seed_series/blob/main/series/generative/smpte/src/make_new_smpte_seed.py).
 
