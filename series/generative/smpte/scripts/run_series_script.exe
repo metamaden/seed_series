@@ -1,0 +1,3 @@
+for /l %x in (0,1,10) do (
+	python %cd%\src\make_new_smpte_seed.py --seednum %x
+)
